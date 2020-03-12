@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagekit 1.0.8 (pagekit/highlight, messages)\n"
+"POT-Creation-Date: 2015-09-17 15:47+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Style"
+msgstr ""
+
+msgid "Highlight Settings"
+msgstr ""
+
+msgid "Loading styles..."
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Auto Detect"
+msgstr ""
+
+msgid "Only load when code found on page"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+
